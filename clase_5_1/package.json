@@ -27,8 +27,5 @@
     "@fortawesome/react-fontawesome": "^0.1.11",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
-  },
-  "browserslist": [
-    "last 1 Chrome version"
-  ]
+  }
 }
